@@ -1,7 +1,6 @@
 # Tutoring_system_2021
 
-
-This system is developed for assignment purposes in our university and it can manage all the functions of the tutoring System. I engaged in the below areas in this project.   
+This system has been developed for assignment purposes in our university the second-year second semester and I  scored an 'A' Grade for this “ITP” module assignment. This system can manage all the functions related to the Tutoring Management  System. I engaged in the below areas in this project.
 
 ◾  I  worked as a team leader in this project.
 
@@ -11,7 +10,7 @@ This system is developed for assignment purposes in our university and it can ma
 
 ◾  I applied all the crud operations and other new features in this system.
 
-◾ I implemented the email service and report    generating (PDF format) part in this system.
+◾ I implemented the email service and report generating (PDF format) part in this system.
 
 
 ![laravel-bootstrap-001-768x576](https://user-images.githubusercontent.com/95535148/147684299-c23e4adc-b46a-4a82-b8dc-89adf06b2f7b.png)
